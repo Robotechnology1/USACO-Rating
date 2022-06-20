@@ -1,3 +1,15 @@
+2022 Open|262144 Revisited|http://usaco.org/index.php?page=viewproblem2&cpid=1236|0
+2022 Open|Hoof and Brain|http://usaco.org/index.php?page=viewproblem2&cpid=1237|0
+2022 Open|Up Down Subsequence|http://usaco.org/index.php?page=viewproblem2&cpid=1238|0
+2022 Feb|Paint by Rectangles|http://usaco.org/index.php?page=feb22results|0
+2022 Feb|Sleeping in Class|http://usaco.org/index.php?page=viewproblem2&cpid=1213|0
+2022 Feb|Phone Numbers|http://usaco.org/index.php?page=viewproblem2&cpid=1214|0
+2022 Jan|Minimizing Haybales|http://usaco.org/index.php?page=viewproblem2&cpid=1188|0
+2022 Jan|Counting Haybales|http://usaco.org/index.php?page=viewproblem2&cpid=1189|0
+2022 Jan|Multiple Choice Test|http://usaco.org/index.php?page=viewproblem2&cpid=1190|0
+2022 Dec|Tickets|http://usaco.org/index.php?page=viewproblem2&cpid=1164|0
+2022 Dec|Paired Up|usaco.org/index.php?page=viewproblem2&cpid=1165|0
+2022 Dec|HILO|http://usaco.org/index.php?page=viewproblem2&cpid=1166|0
 2021 Open|United Cows of Farmer John|http://usaco.org/index.php?page=viewproblem2&cpid=1140|0
 2021 Open|Routing Schemes|http://usaco.org/index.php?page=viewproblem2&cpid=1141|0
 2021 Open|Balanced Subsets|http://usaco.org/index.php?page=viewproblem2&cpid=1142|0
